@@ -1,10 +1,10 @@
 <?php 
 $a = "Hello";
 echo $a;
-echo 'こんにちは'; 
-echo "岩下";
-echo "updated by tito";
-echo "kato";
-echo "tmurao";
+$b = "GoodBye";
+echo $b;
+$c = "See You";
+echo $c;
+
 ?>
 a
